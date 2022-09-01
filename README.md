@@ -7,7 +7,9 @@ The salary calculator is a Java command line program that prompts for inputs of 
 ## The challenge
 
 **Input 1:**    Number of hours the employee works per week.
+
 **Input 2:**    Amount of money the employee makes per hour.
+
 **Output:**     Employee's gross yearly salary
 
 *Note: Not concerned with tax's or any other deductions.*
