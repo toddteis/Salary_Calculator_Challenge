@@ -1,18 +1,15 @@
-## Getting Started
+## Salary Calculator Challenge
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This challenge is part of [Karthryn Hodge](https://www.linkedin.com/in/blondiebytes/?trk=lil_instructor)'s [Learning Java](https://www.linkedin.com/learning/learning-java-4) course.
 
-## Folder Structure
+The salary calculator is a Java command line program that prompts for inputs of number of hours worked, hourly rate and vacation days taken and outputs gross yearly salary.
 
-The workspace contains two folders by default, where:
+# The challenge
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+`Input 1`:    Number of hours the employee works per week.
+`Input 2`:    Amount of money the employee makes per hour.
+`Output`:     Employee's gross yearly salary
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Note: Not concerned with tax's or any other deductions.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+`Bonus`: Add an input that accounts for vacation days. Assume employee does not get paid for vacation days and that one vacation day equals 8 hours of work.
